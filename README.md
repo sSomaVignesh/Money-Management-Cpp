@@ -19,7 +19,7 @@ It allows users to:
 - Display remaining balance in each category
 
 ## 🚀 How to Run
-   git clone https://github.com/your-username/Money-Management-Cpp.git
+   git clone https://github.com/sSomaVignesh/Money-Management-Cpp.git
    cd Money-Management-Cpp
    g++ src/main.cpp -o money_manager
    ./money_manager
