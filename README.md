@@ -11,6 +11,8 @@ It allows users to:
   - **3 parts** → Emergency funds & luxury items
   - **2 parts** → Savings (only accessible when the first category is used up)
 
+---
+
 ## ⚙️ Features
 - User authentication (login/sign-up)
 - Add money to the system
@@ -18,8 +20,11 @@ It allows users to:
 - Automatic money distribution (5:3:2 ratio)
 - Display remaining balance in each category
 
+---
+
 ## 🚀 How to Run
-   git clone https://github.com/sSomaVignesh/Money-Management-Cpp.git
-   cd Money-Management-Cpp
-   g++ src/main.cpp -o money_manager
-   ./money_manager
+```bash
+git clone https://github.com/sSomaVignesh/Money-Management-Cpp.git
+cd Money-Management-Cpp
+g++ src/main.cpp -o money_manager
+./money_manager
